@@ -1,0 +1,16 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+auto: true
+rdiscount:
+  extensions: [smart]
+title : Lynn Chen
+production_url : honglin.info
+description: "Do or do not. There is no try"
+disqus_shortname: lynnsinfo
+analytics: UA-40303092-1
+gauges: 
+author:
+  name: Lynn Chen
+  github: homleen
+  twitter: openapi
