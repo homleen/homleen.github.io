@@ -1,12 +1,12 @@
 markdown: rdiscount
 pygments: true
-permalink: /blog/:year/:title
+permalink: /blog/:year/:month/:title
 auto: true
 rdiscount:
   extensions: [smart]
-title: Lynn Chen
+title: Lynn's Log
 production_url : honglin.info
-description: "Do or do not. There is no try"
+description: "Do or do not. There is no try!"
 disqus_shortname: lynnsinfo
 analytics: UA-40333054-1
 author:
