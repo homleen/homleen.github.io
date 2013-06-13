@@ -3,3 +3,4 @@ _site/
 .idea/
 Makefile
 *.swp
+*test.md
