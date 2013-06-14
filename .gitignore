@@ -1,6 +1,5 @@
 .DS_Store
 _site/
 .idea/
-Makefile
 *.swp
 *test.md
