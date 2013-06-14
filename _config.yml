@@ -3,7 +3,6 @@ pygments: true
 permalink: /blog/:year/:month/:title
 paginate: 20
 paginate_path: blog/page/:num
-auto: true
 rdiscount:
   extensions: [smart]
 title: Lynn's Log
