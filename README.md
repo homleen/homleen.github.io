@@ -1,4 +1,4 @@
-homleen.github.com
-==================
+Lynn's Log.
+===
 
-Lynn's github pages.
+[Domain](http://honglin.info)
