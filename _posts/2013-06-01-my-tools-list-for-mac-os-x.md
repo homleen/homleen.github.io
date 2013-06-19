@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Tool List for Mac OS X"
+title: "我的MAC工具推荐列表"
 category: mac
 ---
 
