@@ -1,19 +1,9 @@
 ---
-layout: layout
+layout: default
 ---
+<h2>{{ page.title }}</h2>
+<p class="meta">{{ page.date | date_to_string }}</p>
 
-<section class="content">
-  <h1>
-    <a href="{{ page.url }}">{{ page.title }}</a>
-  </h1>
-
-  <section class="byline">
-    {{ page.date | date: "%B %e, %Y" }}
-  </section>
-
-  {{ content }}
-  <div class="pull"></div>
-  {% include twitter.html %}
-  <hr>
-  {% include disqus.html %}
-</section>
+<div class="post">
+{{ content }}
+</div>
